@@ -37,5 +37,3 @@ app.listen(port, async () => {
   console.log(`app running ${port}`);
   connect();
 });
-
-module.exports = app;
